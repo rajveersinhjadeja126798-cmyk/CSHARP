@@ -1,0 +1,7 @@
+D:\7160_harsh\BCA-4C\unit-1\bin\Debug\unit-1.exe.config
+D:\7160_harsh\BCA-4C\unit-1\bin\Debug\unit-1.exe
+D:\7160_harsh\BCA-4C\unit-1\bin\Debug\unit-1.pdb
+D:\7160_harsh\BCA-4C\unit-1\obj\Debug\unit-1.csproj.AssemblyReference.cache
+D:\7160_harsh\BCA-4C\unit-1\obj\Debug\unit-1.csproj.CoreCompileInputs.cache
+D:\7160_harsh\BCA-4C\unit-1\obj\Debug\unit-1.exe
+D:\7160_harsh\BCA-4C\unit-1\obj\Debug\unit-1.pdb
