@@ -1,0 +1,2 @@
+D:\7150meett\bca_4c\pro13\obj\Debug\pro13.csproj.AssemblyReference.cache
+D:\7150meett\bca_4c\pro13\obj\Debug\pro13.csproj.CoreCompileInputs.cache
